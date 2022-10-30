@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah Şimşek
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me a.simsek17@hotmail.com
 
