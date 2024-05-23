@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me a.simsek17@hotmail.com
+- 📫 How to reach me simsekab17@gmail.com
 
 <!---
 asimsek17/asimsek17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
